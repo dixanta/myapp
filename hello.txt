@@ -1,1 +1,2 @@
 This is just a simple file.
+added to the file from developer.
