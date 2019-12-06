@@ -1,7 +1,4 @@
 This is just a simple file.
 added to the file from developer.
-<<<<<<< HEAD
-This is local copy.
-=======
 Added to local copy.
->>>>>>> master
+this is server copy.
